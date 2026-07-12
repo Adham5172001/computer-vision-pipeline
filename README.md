@@ -1,5 +1,7 @@
 # Computer Vision Pipeline
 
+> **Maturity: inference simulation prototype.** The runnable demo produces deterministic simulated detections and benchmark-style metadata. It does not train or evaluate YOLOv8, Mask R-CNN, EfficientNet, or PatchCore on the named public datasets.
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
